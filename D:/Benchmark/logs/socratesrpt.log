@@ -1,0 +1,162 @@
+13:46:26.708 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/sumankandagatla/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/sumankandagatla/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+13:46:26.745 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 41841 (started by sumankandagatla in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+13:46:26.746 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+13:46:26.746 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+13:46:28.745 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+13:46:29.057 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.598 seconds (JVM running for 3.64) 
+13:49:04.793 [main] INFO  c.b.s.BenchmarkServicesApplication - Starting BenchmarkServicesApplication on Sumans-MacBook-Pro.local with PID 41862 (/Users/sumankandagatla/git/repository/socrates-reporting-api/target/classes started by sumankandagatla in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+13:49:04.796 [main] DEBUG c.b.s.BenchmarkServicesApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+13:49:04.798 [main] INFO  c.b.s.BenchmarkServicesApplication - No active profile set, falling back to default profiles: default 
+13:49:06.654 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+13:49:06.829 [main] INFO  c.b.s.BenchmarkServicesApplication - Started BenchmarkServicesApplication in 2.318 seconds (JVM running for 2.806) 
+13:49:50.528 [http-nio-5020-exec-4] INFO  c.b.s.controller.BenchmarkController - Performance Logs - Begin Get school list begin : 
+13:49:50.530 [http-nio-5020-exec-4] INFO  c.b.s.controller.BenchmarkController - Performance Logs End - Get school list end : Time taken : 2 
+14:25:59.481 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/var/root/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/var/root/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+14:25:59.521 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 42322 (started by root in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:25:59.521 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:25:59.527 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+14:26:01.400 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:26:01.652 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.435 seconds (JVM running for 3.546) 
+14:32:36.464 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/sumankandagatla/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/sumankandagatla/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+14:32:36.504 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 42405 (started by sumankandagatla in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:32:36.510 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:32:36.531 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+14:32:38.360 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:32:38.605 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.34 seconds (JVM running for 3.262) 
+14:33:25.694 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/var/root/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/var/root/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+14:33:25.725 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 42438 (started by root in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:33:25.725 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:33:25.727 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+14:33:27.488 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:33:27.795 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.312 seconds (JVM running for 3.319) 
+14:37:11.013 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/var/root/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/var/root/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+14:37:11.035 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 42556 (started by root in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:37:11.035 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:37:11.036 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+14:37:12.807 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:37:13.047 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.251 seconds (JVM running for 2.95) 
+14:37:16.145 [main] INFO  c.b.s.BenchmarkServicesApplication - Starting BenchmarkServicesApplication v0.0.1-SNAPSHOT on Sumans-MacBook-Pro.local with PID 42561 (/Users/sumankandagatla/git/repository/socrates-reporting-api/target/socrates-reporting-api-0.0.1-SNAPSHOT.jar started by sumankandagatla in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:37:16.151 [main] DEBUG c.b.s.BenchmarkServicesApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:37:16.153 [main] INFO  c.b.s.BenchmarkServicesApplication - No active profile set, falling back to default profiles: default 
+14:37:18.205 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:37:18.362 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The Tomcat connector configured to listen on port 5020 failed to start. The port may already be in use or the connector may be misconfigured.
+
+Action:
+
+Verify the connector's configuration, identify and stop any process that's listening on port 5020, or configure this application to listen on another port.
+ 
+14:37:50.857 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/var/root/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/var/root/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+14:37:50.883 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 42585 (started by root in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:37:50.883 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:37:50.885 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+14:37:52.522 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:37:52.784 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.111 seconds (JVM running for 2.825) 
+14:37:55.820 [main] INFO  c.b.s.BenchmarkServicesApplication - Starting BenchmarkServicesApplication v0.0.1-SNAPSHOT on Sumans-MacBook-Pro.local with PID 42590 (/Users/sumankandagatla/git/repository/socrates-reporting-api/target/socrates-reporting-api-0.0.1-SNAPSHOT.jar started by sumankandagatla in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:37:55.830 [main] DEBUG c.b.s.BenchmarkServicesApplication - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:37:55.832 [main] INFO  c.b.s.BenchmarkServicesApplication - No active profile set, falling back to default profiles: default 
+14:37:57.879 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:37:58.031 [main] INFO  c.b.s.BenchmarkServicesApplication - Started BenchmarkServicesApplication in 2.631 seconds (JVM running for 3.259) 
+14:38:21.425 [http-nio-5020-exec-1] INFO  c.b.s.controller.BenchmarkController - Performance Logs - Begin Get school list begin : 
+14:38:21.426 [http-nio-5020-exec-1] INFO  c.b.s.controller.BenchmarkController - Performance Logs End - Get school list end : Time taken : 1 
+14:38:23.540 [http-nio-5020-exec-3] INFO  c.b.s.controller.BenchmarkController - Performance Logs - Begin Get school list begin : 
+14:38:23.540 [http-nio-5020-exec-3] INFO  c.b.s.controller.BenchmarkController - Performance Logs End - Get school list end : Time taken : 0 
+14:38:33.232 [http-nio-5020-exec-6] INFO  c.b.s.controller.BenchmarkController - Performance Logs - Begin Get school list begin : 
+14:38:33.232 [http-nio-5020-exec-6] INFO  c.b.s.controller.BenchmarkController - Performance Logs End - Get school list end : Time taken : 0 
+14:48:05.205 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/Users/sumankandagatla/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/Users/sumankandagatla/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+14:48:05.272 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 42703 (started by sumankandagatla in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:48:05.274 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:48:05.276 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+14:48:07.215 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:48:07.486 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.496 seconds (JVM running for 3.529) 
+14:48:29.929 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/var/root/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/var/root/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+14:48:29.972 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 42730 (started by root in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:48:29.973 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:48:29.976 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+14:48:31.805 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:48:32.087 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.39 seconds (JVM running for 3.394) 
+14:51:47.354 [main] WARN  o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer - 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/var/root/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+	jar:file:/var/root/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+ 
+14:51:47.384 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Starting BenchmarkServicesApplicationTests on Sumans-MacBook-Pro.local with PID 42784 (started by root in /Users/sumankandagatla/git/repository/socrates-reporting-api) 
+14:51:47.384 [main] DEBUG c.b.s.b.BenchmarkServicesApplicationTests - Running with Spring Boot v2.1.1.RELEASE, Spring v5.1.3.RELEASE 
+14:51:47.386 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - No active profile set, falling back to default profiles: default 
+14:51:49.247 [main] WARN  o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration - Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration) 
+14:51:49.506 [main] INFO  c.b.s.b.BenchmarkServicesApplicationTests - Started BenchmarkServicesApplicationTests in 2.419 seconds (JVM running for 3.362) 
